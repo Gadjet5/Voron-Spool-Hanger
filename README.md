@@ -10,3 +10,4 @@ Theoretically one could also print directly from the hanging spool but at this s
 BOM:
  2 x M4 threaded insert
  2 x M40-SH Screws @ 10/12mm (depending on top cover thickness)
+![Spool Hanger](https://user-images.githubusercontent.com/47404258/162182272-1148e4eb-2cfb-4264-a6e2-8477a74a4925.jpg)
