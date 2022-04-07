@@ -5,7 +5,7 @@ This was designed to dry a single roll of filament while printing. Whilst printi
 
 Naturally Z height is affected by about 100mm and it would be pertinent to set these values in your slicer so to avoid accidental crashes.
 
-Theoretically one could also print directly from the hanging spool but at this stage it is untested.
+Theoretically one could also print directly from the hanging spool but at this stage it is untested. (You would also need to make sure the filament feeds off clockwise to avoide the spool holder from uncrewing)
 
 BOM:
  2 x M4 threaded insert
